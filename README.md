@@ -1,3 +1,9 @@
+# Modifications from the Original Repository
+
+- Here we use the existing Pointcept repository and add placement for custom dataset. For using the custom dataset, we need to generate the hdf5 file first by using https://github.com/msorour/MiniMarket_dataset_processing
+- For training and testing, the command is the same as explained below in the original repository readme file
+- For the complete experiment results and code you can download it here --> https://uoe-my.sharepoint.com/:u:/g/personal/s2737104_ed_ac_uk/EdZnVUG7szlIjqx40zcTjc8BUwbDwa8i4Ea7qK8dDVCTJw?e=uIZwzB
+
 # APES: Attention-based Point Cloud Edge Sampling
 
 <p>
